@@ -1,0 +1,22 @@
+
+
+.main{
+background-color: rgba(0, 0, 0, 0.829);
+}
+#container{
+    display:flex;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+    outline: navy solid 2px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+#items{
+    align-items: center;
+    padding: 1fr;
+    font-size: 1.3em;
+    height: 1fr;
+    text-decoration: none;
+    color: oldlace;
+
+}
