@@ -1,13 +1,13 @@
 
 
 .main{
-background-color: rgba(0, 0, 0, 0.829);
+background-color: #1c1c1c;
 }
 #container{
     display:flex;
     flex-flow: row nowrap;
     justify-content: space-around;
-    outline: navy solid 2px;
+    outline: rgb(221, 221, 221) solid 2px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
@@ -18,5 +18,6 @@ background-color: rgba(0, 0, 0, 0.829);
     height: 1fr;
     text-decoration: none;
     color: oldlace;
+    cursor: pointer;
 
 }
